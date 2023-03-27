@@ -1,0 +1,37 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 79%);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    max-width: 320px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 15px;
+  }
+  
+  h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    opacity: 70%;
+  }
+  
+  .attribution {
+    font-size: 12px;
+    margin-top: 20px;
+  }
